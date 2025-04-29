@@ -30,4 +30,5 @@ pip install -r requirements.txt
 python run app.py
 
 ## 🎨 User Interface Preview
-https://raw.githubusercontent.com/adeways2000/AI-Powered-Content-Creation/refs/heads/main/Agentx.PNG
+![image](https://github.com/user-attachments/assets/931823bc-10b2-409b-a8aa-1a725525e173)
+
