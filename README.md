@@ -30,5 +30,5 @@ pip install -r requirements.txt
 python run app.py
 
 ## 🎨 User Interface Preview
-![image](https://github.com/user-attachments/assets/931823bc-10b2-409b-a8aa-1a725525e173)
+![UI Screenshot](https://github.com/user-attachments/assets/931823bc-10b2-409b-a8aa-1a725525e173)
 
