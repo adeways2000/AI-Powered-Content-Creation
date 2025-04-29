@@ -31,5 +31,7 @@ python run app.py
 
 ## 🎨 User Interface Preview
     ![image](https://github.com/user-attachments/assets/9870ba87-377c-441a-8973-c3c0a9a460f4)
+   ![image](https://github.com/user-attachments/assets/ceaff99d-3eeb-491b-95c0-9205dd34ec89)
+
 
 
