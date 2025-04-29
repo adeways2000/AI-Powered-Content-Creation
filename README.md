@@ -4,6 +4,9 @@ AI Agent to build and customize an AI-powered content creation platform, perfect
 This project uses LangChain, LangGraph, LangChain, OpenAI, DALL-E and Flask to create dynamic, AI-generated contents.
 It includes memory retention, user interaction, and world-building AI agents.
 
+![image](https://github.com/user-attachments/assets/0e64c9e9-c439-4b96-b4ae-c77b2d41f53e)
+
+
 
 ## 🔹 How to Run the Project
 
@@ -30,7 +33,7 @@ pip install -r requirements.txt
 python run app.py
 
 ## 🎨 User Interface Preview
-    ![image](https://github.com/user-attachments/assets/9870ba87-377c-441a-8973-c3c0a9a460f4)
+    
    ![image](https://github.com/user-attachments/assets/ceaff99d-3eeb-491b-95c0-9205dd34ec89)
 
 
