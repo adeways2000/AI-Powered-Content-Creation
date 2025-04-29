@@ -30,3 +30,4 @@ pip install -r requirements.txt
 python run app.py
 
 ## 🎨 User Interface Preview
+![image](https://github.com/user-attachments/assets/662faf6c-a9cf-4da4-8fb6-6fb070748f12)
