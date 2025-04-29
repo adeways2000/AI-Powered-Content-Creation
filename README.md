@@ -26,6 +26,9 @@ cd AI-Powered-Content-Creation
 conda create --n agentx python=3.11
 conda activate agentx
 
+ENV
+OPENAI_API_KEY = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 4️⃣ Install dependencies
 
 pip install -r requirements.txt
